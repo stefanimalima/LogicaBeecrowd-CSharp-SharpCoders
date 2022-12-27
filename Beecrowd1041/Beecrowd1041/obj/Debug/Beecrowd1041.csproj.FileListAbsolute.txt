@@ -1,0 +1,8 @@
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Beecrowd1041\Beecrowd1041\bin\Debug\Beecrowd1041.exe.config
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Beecrowd1041\Beecrowd1041\bin\Debug\Beecrowd1041.exe
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Beecrowd1041\Beecrowd1041\bin\Debug\Beecrowd1041.pdb
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Beecrowd1041\Beecrowd1041\obj\Debug\Beecrowd1041.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Beecrowd1041\Beecrowd1041\obj\Debug\Beecrowd1041.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Beecrowd1041\Beecrowd1041\obj\Debug\Beecrowd1041.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Beecrowd1041\Beecrowd1041\obj\Debug\Beecrowd1041.exe
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Beecrowd1041\Beecrowd1041\obj\Debug\Beecrowd1041.pdb
